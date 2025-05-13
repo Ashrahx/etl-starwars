@@ -1,7 +1,7 @@
 # Proyecto Final ETL - Star Wars API
 
 ## Descripción
-Este proyecto implementa un proceso ETL que consume datos de la [API pública de Star Wars]([https://swapi.dev/](https://www.swapi.tech/api/)), los transforma y los carga en una base de datos MySQL alojada en AWS RDS.
+Este proyecto implementa un proceso ETL que consume datos de la [API pública de Star Wars](https://www.swapi.tech/api/), los transforma y los carga en una base de datos MySQL alojada en AWS RDS.
 
 ## Requisitos
 - Python 3.8+
