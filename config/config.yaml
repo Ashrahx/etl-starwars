@@ -1,0 +1,16 @@
+api:
+  base_url: "https://www.swapi.tech/api/"
+  endpoints:
+    people: "people"
+    planets: "planets"
+  timeout: 60
+  max_retries: 3
+
+team:
+  number: 5
+  name: "starwars"
+
+tables:
+  people: "stg_people"
+  planets: "stg_planets"
+  logs: "logs_api_request"

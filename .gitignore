@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
+
+# Archivos de configuración sensibles
+config/db_config.yaml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
